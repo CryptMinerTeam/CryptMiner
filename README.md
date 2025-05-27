@@ -83,11 +83,11 @@ cd CryptMiner && python cryptminer.py
 
 ## 📱 iOS/iPadOS Notice
 
-> **⚠️ NOTICE for iPhone/iPad Users**
+> **⚠️ Important for iPhone/iPad Users**
 > 
 > Setting up CryptMiner on iOS devices using iSH can be **time-consuming** due to:
 > - Extended dependency installation times
-> - Apple's background execution restrictions apps, including iSH
+> - Apple's background execution restriction on apps, including iSH
 > 
 > **Recommendation:** Use alternative platforms (Android/Termux, Linux, macOS & Windows) for optimal performance.
 
