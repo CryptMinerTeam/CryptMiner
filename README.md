@@ -63,7 +63,7 @@ How To Get Termux App `(Recommended)`
 
 #### 🖐️ IF THE STEPS ABOVE DIDN'T WORK FOR YOU, TRY THIS:
 
-Get [Termux Here](https://github.com/termux/termux-app)
+Get [Termux Here](https://github.com/termux/termux-app/releases)
 
 #### After App Installation, Open Termux & Enter:
 ```bash
