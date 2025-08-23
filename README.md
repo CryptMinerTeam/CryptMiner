@@ -29,6 +29,8 @@ Install CryptMiner as a Progressive Web App (PWA) on your iPhone or iPad:
 2. Follow the on-screen prompts to install the PWA by adding it to your home screen or desktop.
 3. Launch the app and start mining with ease.
 
+**NEED HELP WITH IT?** [CLICK HERE](https://web.dev/learn/pwa/installation#desktop_installation)
+
 ## CLI Installation Guide ⬇️
 
 ### ⬇️ Available On
