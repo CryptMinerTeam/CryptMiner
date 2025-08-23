@@ -6,26 +6,26 @@
 We’re excited to announce the launch of the CryptMiner App, bringing our powerful crypto mining capabilities to a user-friendly interface. Alongside the existing CLI version, this update enhances your mining experience.
 
 ## Choose Your Mining Experience
-- **CryptMiner App**: A new graphical interface for easy mining on all devices. [Setup Guide](#app-installation-guide-⬇️)
-- **CryptMiner CLI**: The original command-line tool, perfect for advanced users on all devices. [Setup Guide](#cli-installation-guide-⬇️)
+- **CryptMiner App**: A new graphical interface for easy mining on all devices. [Setup Guide](#app-installation-guide-%EF%B8%8F)
+- **CryptMiner CLI**: The original command-line tool, perfect for advanced users on all devices. [Setup Guide](#cli-installation-guide-%EF%B8%8F)
 
 ## App Installation Guide ⬇️
 
 ### Android
-Download the [CryptMiner APK](https://github.com/CryptMinerTeam/CryptMiner/releases) .apk file from our releases page to get started. Follow these steps:
+Download the [CryptMiner APK](https://github.com/CryptMinerTeam/CryptMiner/releases/download/v1.0.0/CryptMiner.apk) file from our releases page to get started. Follow these steps:
 1. Enable "Install from Unknown Sources" in your Android settings.
-2. Open the downloaded .apk file and install the app.
-3. Launch the app and follow the on-screen instructions to begin mining.
+2. Open the downloaded .apk file and click to install the app.
+3. Open the app and follow the on-screen instructions to begin mining.
 
 ### iOS
 Install CryptMiner as a Progressive Web App (PWA) on your iPhone or iPad:
-1. Open cryptminer.vercel.app in Safari.
+1. Open [CryptMiner](https://cryptminer.vercel.app) in Safari.
 2. Tap the Share icon and select "Add to Home Screen".
 3. Confirm the addition and open the app from your home screen.
 ![Adding PWA on iOS](img/add-pwa-on-ios.webp)
 
 ### Other Devices (Windows, MacOS, Linux and others)
-1. Open [CryptMiner](cryptminer.vercel.app) in your preferred browser.
+1. Open [CryptMiner](https://cryptminer.vercel.app) in your preferred browser.
 2. Follow the on-screen prompts to install the PWA by adding it to your home screen or desktop.
 3. Launch the app and start mining with ease.
 
