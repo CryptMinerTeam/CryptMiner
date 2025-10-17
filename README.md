@@ -12,7 +12,7 @@ We’re excited to announce the launch of the CryptMiner App, bringing our power
 ## App Installation Guide ⬇️
 
 ### Android
-Download the [CryptMiner APK](https://github.com/CryptMinerTeam/CryptMiner/releases/download/v1.0.0/CryptMiner.apk) file from our releases page to get started. Follow these steps:
+Download the [CryptMiner APK](https://github.com/CryptMinerTeam/CryptMiner/releases/download/v1.0.1/CryptMiner.apk) file from our releases page to get started. Follow these steps:
 1. Enable "Install from Unknown Sources" in your Android settings.
 2. Open the downloaded .apk file and click to install the app.
 3. Open the app and follow the on-screen instructions to begin mining.
@@ -119,5 +119,6 @@ cd CryptMiner && python cryptminer.py
 If you encounter any issues, contact our support team:
 - Telegram: [@CryptMinerAdmin](https://t.me/CryptMinerAdmin)
 - Email: <a href="mailto:cryptminer.team@gmail.com">cryptminer.team@gmail.com</a>
+
 
 CryptMiner © 2025 - All rights reserved.
